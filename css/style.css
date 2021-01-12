@@ -83,7 +83,7 @@ span:hover {
 }
 
 span.name {
-  color: #ED5565
+  color: #FFC033
 }
 
 span.m-left {
@@ -99,8 +99,8 @@ span.m-left {
 .text a {
   padding: 12px 25px;
   background-color: none;
-  border: 3px solid #ED5565;
-  color: #ED5565;
+  border: 3px solid #FFC033;
+  color: #FFC033;
   font-size: .8rem;
   letter-spacing: 2px;
   position: relative;
@@ -116,7 +116,7 @@ span.m-left {
 
 .text a::before {
   content: '';
-  background-color: #ED5565;
+  background-color: #FFC033;
   position: absolute;
   left: 0;
   top: 0;
@@ -217,7 +217,7 @@ div[class^='tag-'] {
   clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0% 50%, 0% 0%);
   width: 120px;
   height: 30px;
-  background-color: #1785A7;
+  background-color: #b4862a;
   margin-right: 30px;
 }
 
@@ -257,10 +257,10 @@ div[class^='bar-'] {
 
 .work-category button, .contact-button a button {
   text-transform: capitalize;
-  border: 3px solid #ED5565;
+  border: 3px solid #FFC033;
   padding: 15px 30px;
   border-radius: 50px;
-  color: #ED5565;
+  color: #FFC033;
   font-size: 1.1rem;
   letter-spacing: 1px;
   background-color: #252627;
@@ -281,7 +281,7 @@ div[class^='bar-'] {
 }
 
 .contact-button a button:hover {
-  background-color: #ED5565;
+  background-color: #FFC033;
   color: white;
 }
 
@@ -307,7 +307,7 @@ div[class^='category-'] {
 }
 
 .work-category .active {
-  background-color: #ED5565;
+  background-color: #FFC033;
 }
 
 button.active {
